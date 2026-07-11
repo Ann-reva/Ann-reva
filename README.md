@@ -2,7 +2,7 @@
 
 **Technical Program Manager / Project Manager** · ex-Snap Senior Quality Engineer (L5) · PMP (2026)
 
-9+ years shipping consumer mobile products at scale. I turn ambiguous goals into roadmaps, specs, and predictable releases. And I automate the boring parts with AI agents.
+11+ years shipping consumer mobile products at scale. I turn ambiguous goals into roadmaps, specs, and predictable releases. And I automate the boring parts with AI agents.
 
 ## 🔭 What I'm building
 
