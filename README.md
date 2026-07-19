@@ -1,6 +1,6 @@
 # Hi, I'm Anya 👋
 
-**Technical Program Manager / Project Manager** · ex-Snap Senior Quality Engineer (L5) · PMP (2026)
+**Technical Program Manager | Project Manager** · ex-Snap 
 
 11+ years shipping consumer mobile products at scale. I turn ambiguous goals into roadmaps, specs, and predictable releases. And I automate the boring parts with AI agents.
 
@@ -18,6 +18,6 @@ Program delivery & launch readiness · Go/No-Go coordination · Roadmap & milest
 
 ## 📜 Certifications
 
-PMP (PMI, 2026) · CSM (Scrum Alliance, in progress)
+PMP (PMI, in progress) · CSM (Scrum Alliance, 07/2026)
 
 📫 anlare820@gmail.com
